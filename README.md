@@ -63,11 +63,11 @@ Driven by a vision to bridge the gap between complex engineering and intuitive u
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **[Enterprise Incident Management](https://github.com/gudapatichandana/IncidentManager_ProPayRoll)** | React, Vite, Tailwind | High-fidelity platform with Kanban tracking, severity triage, and SLA compliance. |
-| **[ProPayroll AI](https://github.com/gudapatichandana/ProPayoll-AI)** | JS, Vite, AI/ML | Global payroll orchestration simulator with multi-jurisdiction compliance and AI generation. |
+| **[Enterprise Incident Management System](https://github.com/gudapatichandana/IncidentManager_ProPayRoll)** | React, Vite, Tailwind | High-fidelity platform with Kanban tracking, severity triage, and SLA compliance. |
+| **[ProPayroll AI — Global Automation](https://github.com/gudapatichandana/ProPayoll-AI)** | JS, Vite, AI/ML | Global payroll orchestration simulator with multi-jurisdiction compliance and AI generation. |
 | **[Geospatial Intelligence App](https://github.com/gudapatichandana/mapquiz)** | Flutter, Dart | Cross-platform geospatial quiz engine using Flutter's high-performance framework. |
-| **[Mini Google File System](https://github.com/gudapatichandana/Mini-Google-File-System-)** | Java, Dist. Systems | Distributed storage architecture optimized for fault tolerance and massive throughput. |
-| **[Secure Research Portal](https://github.com/gudapatichandana/Secure-Research-Portal-App)** | Full Stack, Cybersecurity | High-integrity portal with end-to-end encryption and Role-Based Access Control. |
+| **[Distributed File System (miniGFS)](https://github.com/gudapatichandana/Mini-Google-File-System-)** | Java, Dist. Systems | Distributed storage architecture optimized for fault tolerance and massive throughput. |
+| **[Secure Research Infrastructure](https://github.com/gudapatichandana/Secure-Research-Portal-App)** | Full Stack, Cybersecurity | High-integrity portal with end-to-end encryption and Role-Based Access Control. |
 | **[Enterprise Resort Ecosystem](https://github.com/gudapatichandana/Resort-System)** | Node.js, SQL | Scalable hospitality management platform for real-time reservation logic. |
 
 > **View all 10+ projects in my [Portfolio Website](https://gudapatichandana.github.io/Portfolio/)!**
